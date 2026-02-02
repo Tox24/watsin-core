@@ -13,6 +13,6 @@ class App():
         pass
     
     def toy_func(self):
-        print('aaaaaaaaaaaaa' * 5)
+        print('aaaaaaaaabaaa' * 5)
     
 app = App()
