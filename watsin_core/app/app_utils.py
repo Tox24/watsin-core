@@ -12,4 +12,7 @@ class App():
     def compile(self):
         pass
     
+    def toy_func(self):
+        print('aaaaaaaaaaaaa' * 5)
+    
 app = App()
