@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "watsin_core"
 version = "0.0.1"
 description = "Core library for 'Watsin' app"
-dependencies = []
+dependencies = [typing, uuid]
 
 [tool.setuptools]
 # Questo comando cerca automaticamente tutte le sottocartelle con __init__.py
